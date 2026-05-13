@@ -9,7 +9,7 @@
     "gecko": {
       "id": "tb-teams-integration@pressler.pro",
       "strict_min_version": "140.0",
-      "strict_max_version": "149.0a1"
+      "strict_max_version": "150.0.2"
 
     }
   },
